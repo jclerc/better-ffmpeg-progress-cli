@@ -1,0 +1,5 @@
+#!/bin/bash
+
+/Users/jonathan/.virtualenvs/better-ffmpeg-progress/bin/python \
+  /Users/jonathan/Documents/projects/local/better-ffmpeg-progress/run.py \
+  "${@:1}"
